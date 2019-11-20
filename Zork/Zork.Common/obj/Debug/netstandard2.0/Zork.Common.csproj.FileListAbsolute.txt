@@ -45,3 +45,12 @@ D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Common\obj\Debug\netstandard2
 D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
 D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
 D:\Projects\Github Projects\ZorkDesigner\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.Fody.CopyLocal.cache
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.dll
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.pdb

@@ -56,3 +56,17 @@ C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Game\obj\Debug\n
 C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.csproj.CopyComplete
 C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.dll
 C:\Users\carlt\OneDrive\Documents\GitHub\ZorkDesigner\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.pdb
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.json
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Game.deps.json
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Game.runtimeconfig.json
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Game.runtimeconfig.dev.json
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Game.dll
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Game.pdb
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Common.dll
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\bin\Debug\netcoreapp2.2\Zork.Common.pdb
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.csprojAssemblyReference.cache
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.AssemblyInfoInputs.cache
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.AssemblyInfo.cs
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.csproj.CopyComplete
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.dll
+D:\ZorkTurnIn\ZorkUnityAGV2019\Zork\Zork.Game\obj\Debug\netcoreapp2.2\Zork.Game.pdb

@@ -859,25 +859,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Xander\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Xander\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Github Projects\\ZorkDesigner\\Zork\\Zork.Game\\Zork.Game.csproj",
+      "projectUniqueName": "D:\\ZorkTurnIn\\ZorkUnityAGV2019\\Zork\\Zork.Game\\Zork.Game.csproj",
       "projectName": "Zork.Game",
-      "projectPath": "D:\\Projects\\Github Projects\\ZorkDesigner\\Zork\\Zork.Game\\Zork.Game.csproj",
+      "projectPath": "D:\\ZorkTurnIn\\ZorkUnityAGV2019\\Zork\\Zork.Game\\Zork.Game.csproj",
       "packagesPath": "C:\\Users\\Xander\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Github Projects\\ZorkDesigner\\Zork\\Zork.Game\\obj\\",
+      "outputPath": "D:\\ZorkTurnIn\\ZorkUnityAGV2019\\Zork\\Zork.Game\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\Xander\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -889,8 +884,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Projects\\Github Projects\\ZorkDesigner\\Zork\\Zork.Common\\Zork.Common.csproj": {
-              "projectPath": "D:\\Projects\\Github Projects\\ZorkDesigner\\Zork\\Zork.Common\\Zork.Common.csproj"
+            "D:\\ZorkTurnIn\\ZorkUnityAGV2019\\Zork\\Zork.Common\\Zork.Common.csproj": {
+              "projectPath": "D:\\ZorkTurnIn\\ZorkUnityAGV2019\\Zork\\Zork.Common\\Zork.Common.csproj"
             }
           }
         }
