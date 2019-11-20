@@ -83,8 +83,8 @@ namespace Zork.Common
             game.Player = game.World.SpawnPlayer();
             game.IsRunning = true;
             game.Input.InputReceived += game.InputReceived;
-            //output.WriteLine("Welcome to Zork!");
-            //game.CommandManager.PerformCommand(game, "LOOK");
+            output.WriteLine("Welcome to Zork!");
+            game.CommandManager.PerformCommand(game, "LOOK");
 
             return game;
         }
